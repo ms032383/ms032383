@@ -17,7 +17,6 @@ I am a Full-Stack Developer specializing in **Mobile App Development (Flutter/Ko
 
 ---
 ###  GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ms032383&show_icons=true&theme=tokyonight" alt="Mohan's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms032383&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+![Mohan's Stats](https://github-readme-stats.vercel.app/api?username=ms032383&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ms032383&layout=compact&theme=tokyonight)
