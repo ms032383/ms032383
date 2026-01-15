@@ -1,4 +1,4 @@
-# Hi there, I'm Mohan Singh! 👋
+# Hi there, I'm Mohan Singh! 
 ###  Flutter Developer | AI Enthusiast | Problem Solver
 
 I am a Full-Stack Developer specializing in **Mobile App Development (Flutter/Kotlin)** and **Backend Systems (Python/Django)**. Currently building scalable e-commerce ecosystems at **GramBasket**.
