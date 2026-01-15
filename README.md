@@ -31,5 +31,3 @@ I am a Full-Stack Developer specializing in **Mobile App Development (Flutter/Ko
 <a href="mailto:mohan.singhreal007@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohan.singhreal007" /></a>
 </p>
 
-### 💻 Top Languages (Alternative Server)
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ms032383&layout=compact&theme=tokyonight)
