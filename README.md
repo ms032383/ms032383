@@ -16,7 +16,11 @@ I am a Full-Stack Developer specializing in **Mobile App Development (Flutter/Ko
 </p>
 
 ---
-###  GitHub Stats
-![Mohan's Stats](https://github-readme-stats.vercel.app/api?username=ms032383&show_icons=true&theme=tokyonight)
+### 🏆 My Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=ms032383&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ms032383&layout=compact&theme=tokyonight)
+### 🔥 Coding Streak
+![Mohan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ms032383&theme=tokyonight&hide_border=true)
+
+### 💻 Top Languages (Alternative Server)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ms032383&layout=compact&theme=tokyonight)
