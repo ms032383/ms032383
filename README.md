@@ -16,11 +16,20 @@ I am a Full-Stack Developer specializing in **Mobile App Development (Flutter/Ko
 </p>
 
 ---
-### 🏆 My Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=ms032383&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ms032383&show_icons=true&theme=tokyonight" alt="Mohan's Stats" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ms032383&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
-### 🔥 Coding Streak
-![Mohan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ms032383&theme=tokyonight&hide_border=true)
+---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/mohansingh007" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mohansingh007" /></a>
+<a href="mailto:mohan.singhreal007@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohan.singhreal007" /></a>
+</p>
 
 ### 💻 Top Languages (Alternative Server)
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ms032383&layout=compact&theme=tokyonight)
