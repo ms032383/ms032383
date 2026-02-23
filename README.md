@@ -32,24 +32,32 @@
 I am a **Software Engineer** specializing in the intersection of **Cross-Platform Mobile Development (Flutter)** and **AI Product Engineering**. I build systems where performance meets traceability.
 
 - 🔭 **Current Focus:** Android Developer Intern @ **GramBasket** (E-commerce Ecosystem).
-- 🧠 **Latest Build:** **AuditTrace AI** — Solving "Black Box" AI issues with a Glass Box Traceability Map.
+- 🧠 **Current Challenge:** Shipping **12 Startups in 12 Months** to master the AI lifecycle.
 - 🎯 **Engineering Philosophy:** Favoring **Clean Architecture**, deterministic state management, and high-performance async flows.
 - 🏆 **Achievements:** Top 10 National Finalist – **Smart India Hackathon 2024** | LeetCode Max Rating: **1454**.
+
+---
+
+## 🏗️ The 12-Month Startup Sprint
+
+### 🛡️ [DateShield](https://github.com/ms032383) — AI "Red Flag" Scanner (Feb 2026)
+*Ensuring dating safety through real-time screenshot analysis.*
+- Built a Flutter-based scanner using **Tesseract OCR** to extract chat text.
+- Implemented **LLM-driven toxicity detection** to identify scams and "red flag" behaviors.
+- Focus: Privacy-first local processing and real-time user safety.
 
 ---
 
 ## 🧩 Featured Projects
 
 ### 🧠 [AuditTrace AI](https://brdagent-6ba69.web.app/) — Enterprise BRD Agent
-*An LLM-driven agent that bridges the gap between unstructured data and formal documentation.*
 - **Traceability:** Developed a custom **Bezier Mapping Engine** using `CustomPainter` to visually link AI outputs back to source evidence.
 - **Explainability:** Implemented a **Reasoning Terminal** (ReAct pattern) to show real-time thought chains.
 - **Tech:** Flutter Web, RAG Pipelines, Firebase.
 
 ### ⛏️ [CoalSafe](https://github.com/ms032383/coalsafe) — Mine Safety IoT Ecosystem
-*Award-winning safety monitoring system for hazardous environments.*
 - Built a high-availability mobile interface for real-time sensor data visualization.
-- **Tech:** Flutter, Python REST API, MongoDB.
+- **🏅 Top 10 – Smart India Hackathon 2024**.
 
 ---
 
@@ -67,14 +75,13 @@ I am a **Software Engineer** specializing in the intersection of **Cross-Platfor
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-0f172a?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-0f172a?style=flat-square)
 
 ---
 
 ## 📊 Engineering Metrics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ms032383&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ms032383&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms032383&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
