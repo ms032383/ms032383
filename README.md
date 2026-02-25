@@ -80,13 +80,12 @@ I am a **Software Engineer** specializing in the intersection of **Cross-Platfor
 
 ## 📊 Engineering Metrics
 
-<p align="center">
-  <!-- 2. Readme Stats (Fixed Link) -->
-  <img height="180" src="https://github-readme-stats.vercel.app" />
-  
-  <!-- 3. Top Languages (Fixed Link) -->
-  <img height="180" src="https://github-readme-stats.vercel.app" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com!+👋;I'm+a+Software+Engineer;Welcome+to+my+Profile!" alt="Typing SVG" />
+
+[![trophy](https://github-profile-trophy.vercel.app)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ms032383&theme=tokyonight&hide_border=true" />
