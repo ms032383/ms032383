@@ -84,7 +84,7 @@ I am a **Software Engineer** specializing in the intersection of **Cross-Platfor
 <img src="https://readme-typing-svg.herokuapp.com!+👋;I'm+a+Software+Engineer;Welcome+to+my+Profile!" alt="Typing SVG" />
 
 <!-- 2. GitHub Trophy (Fixed Link) -->
-[![trophy](https://github-profile-trophy.vercel.app)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app)](https://github.com/ryo-ma/ms032383)
 
 
 
