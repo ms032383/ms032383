@@ -81,9 +81,16 @@ I am a **Software Engineer** specializing in the intersection of **Cross-Platfor
 ## 📊 Engineering Metrics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=ms032383&show_icons=true&theme=tokyonight&hide_border=true
-" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms032383&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- GitHub Contribution Snake Animation -->
+  <img src="https://raw.githubusercontent.com" alt="snake animation" width="100%" />
+</p>
+
+<p align="center">
+  <!-- GitHub Readme Stats (Using a faster, more stable mirror) -->
+  <img height="180" src="https://github-readme-stats-fast.vercel.app" />
+  
+  <!-- Top Languages Card (Using the same stable mirror) -->
+  <img height="180" src="https://github-readme-stats-fast.vercel.app" />
 </p>
 
 <p align="center">
