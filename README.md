@@ -11,18 +11,18 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/mohansingh007" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white""")/>>
   </a>
   <a href="mailto:mohan.singhreal007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white""")/>>
   </a>
   <a href="https://brdagent-6ba69.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/AuditTrace_AI-111827?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+    <img src="https://img.shields.io/badge/AuditTrace_AI-111827?style=for-the-badge&logo=firebase&logoColor=FFCA28""")/>>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ms032383&style=for-the-badge&label=PROFILE+VIEWS&color=0ea5e9" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ms032383&style=for-the-badge&label=PROFILE+VIEWS&color=0ea5e9" alt="profile views""")/>>
 </p>
 
 ---
@@ -80,16 +80,29 @@ I am a **Software Engineer** specializing in the intersection of **Cross-Platfor
 
 ## 📊 Engineering Metrics
 
-
-
-
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ms032383&theme=tokyonight&hide_border=true" />
+  <!-- GitHub Readme Stats (Fixed Link) -->
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app" />
+  <!-- Top Languages Card (Fixed Link) -->
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app" />
 </p>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/ms032383/ms032383/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/> </p>
+<p align="center">
+  <!-- GitHub Streak Stats (Fixed Link) -->
+  <img src="https://streak-stats.demolab.com?user=ms032383&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
 
+<p align="center">
+  <!-- GitHub Trophies (Fixed Link) -->
+  <a href="https://github.com">
+    <img src="https://github-profile-trophy.vercel.app" alt="ms032383 trophies" />
+  </a>
+</p>
+
+<p align="center"> 
+  <!-- Snake Animation (Working) -->
+  <img src="https://raw.githubusercontent.com/ms032383/ms032383/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%""")/>> 
+</p>
 
 ---
 
