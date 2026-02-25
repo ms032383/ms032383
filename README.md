@@ -80,12 +80,6 @@ I am a **Software Engineer** specializing in the intersection of **Cross-Platfor
 
 ## 📊 Engineering Metrics
 
-<p align="center">
-  <!-- 3. GitHub Readme Stats (Using Stable Mirror) -->
-  <img height="180" src="https://github-readme-stats-fast.vercel.app" />
-  <!-- 4. Top Languages Card (Using Stable Mirror) -->
-  <img height="180" src="https://github-readme-stats-fast.vercel.app" />
-</p>
 
 <p align="center">
   <!-- 5. GitHub Streak Stats -->
