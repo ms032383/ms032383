@@ -81,19 +81,6 @@ I am a **Software Engineer** specializing in the intersection of **Cross-Platfor
 ## 📊 Engineering Metrics
 
 
-<p align="center">
-  <!-- 5. GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <!-- 6. GitHub Trophies -->
-  <a href="https://github.com">
-    <img src="https://github-profile-trophy.vercel.app" alt="ms032383 trophies" />
-  </a>
-</p>
-
-
 
 
 
